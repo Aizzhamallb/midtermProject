@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "username": "Aizhamal",
+      "age": "18",
+      "password": "18",
+      "isAdmin": true,
+      "id": 1
+    }
+  ],
+  "products": []
+}
